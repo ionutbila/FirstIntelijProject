@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c2c36b-12fc-48c2-b1f7-029ce960bc43" name="Changes" comment="first commit from intellij" />
+    <list default="true" id="e7c2c36b-12fc-48c2-b1f7-029ce960bc43" name="Changes" comment="added a new line">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678124723760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added a new line">
+      <created>1678125428434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678125428434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit from intellij" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit from intellij" />
+    <MESSAGE value="added a new line" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a new line" />
   </component>
 </project>
